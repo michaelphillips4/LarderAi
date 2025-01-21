@@ -48,13 +48,11 @@ function App() {
     <div className="app-container">
       <div className="header-container">
         <h1 className="main-header">
-          Meet Your Personal
-          <br />
-          <span className="highlight">Recipe AI</span>
+         Cooki Ai
         </h1>
         <p className="description">
           Simply type a few ingredients using the format ingredient1,
-          ingredient2, etc., and Recipe AI will generate an all-new recipe on
+          ingredient2, etc., and Cooki Ai will generate an all-new recipe on
           demand...
         </p>
       </div>
@@ -68,7 +66,7 @@ function App() {
             placeholder="Ingredient1, Ingredient2, Ingredient3,...etc"
           />
           <button type="submit" className="search-button">
-            Generate
+            Get Recipe
           </button>
         </div>
       </form>
