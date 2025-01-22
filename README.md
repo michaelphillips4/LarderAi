@@ -10,4 +10,5 @@ The following diagram provides a visual representation of the services used in t
 ![Application Architecture](/build-serverless-app.png)
 
 
-As you go through the tutorial, you will learn about the services in detail and find resources that will help you get up to speed with them.
+From the tutorial
+https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-amplify-bedrock-cognito-gen-ai/
