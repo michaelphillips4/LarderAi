@@ -52,7 +52,7 @@ function App() {
         </h1>
         <p className="description">
           Simply type a few ingredients using the format ingredient1,
-          ingredient2, etc., and Cooki Ai will generate an all-new recipe on
+          ingredient2, etc., and Larder Ai will generate an all-new recipe on
           demand...
         </p>
       </div>
