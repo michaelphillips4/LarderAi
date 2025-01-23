@@ -113,6 +113,7 @@ function App() {
           result && <p className="result">{result}</p>
         )}
       </div>
+      <footer>v1 by Michael Phillips <a href="http:\\www.area2.co.uk">home</a></footer>
     </div>
   );
 }
