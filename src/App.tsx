@@ -48,7 +48,7 @@ function App() {
     <div className="app-container">
       <div className="header-container">
         <h1 className="main-header">
-         Cooki Ai
+         Larder Ai
         </h1>
         <p className="description">
           Simply type a few ingredients using the format ingredient1,
