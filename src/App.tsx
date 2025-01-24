@@ -4,7 +4,8 @@ import {
   Placeholder,
   RadioGroupField,
   Radio,
-  Button
+  Button,
+  Image
 } from "@aws-amplify/ui-react";
 import "./App.css";
 import { Amplify } from "aws-amplify";
@@ -74,6 +75,16 @@ function App() {
     <div className="app-container">
       <div className="header-container">
         <h1 className="main-header">Larder Ai</h1>
+        <Image
+  alt="larger Ai logo of a robot cooking"
+  src="./cook.jpeg"
+  objectFit="initial"
+  objectPosition="50% 50%"
+  backgroundColor="initial"
+  height="75%"
+  width="75%"
+  opacity="100%"
+/>
         <p className="description">
           Simply type a few ingredients using the format ingredient1,
           ingredient2, etc., and Larder Ai will generate an all-new recipe on
